@@ -1,0 +1,116 @@
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.exe.config
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\App.g.cs
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection_MarkupCompile.cache
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.exe
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.pdb
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.g.resources
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.Properties.Resources.resources
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.csproj.GenerateResource.Cache
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.exe
+c:\users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.pdb
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Correction\PostureCorrectionScreen.baml
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Correction\PostureCorrectionScreen.g.cs
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainScreen.baml
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainWindow.baml
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Select\PostureSelectionScreen.baml
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainScreen.g.cs
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainWindow.g.cs
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Select\PostureSelectionScreen.g.cs
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Login\LoginScreen.baml
+C:\Users\vvip\Documents\Visual Studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Login\LoginScreen.g.cs
+C:\Users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Enrollment\PostureEnrollmentScreen.baml
+C:\Users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Enrollment\PostureEnrollmentScreen.g.cs
+C:\Users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Delete\PostureDeleteScreen.baml
+C:\Users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\Delete\PostureDeleteScreen.g.cs
+C:\Users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.XML
+C:\Users\vvip\documents\visual studio 2012\Projects\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.csprojResolveAssemblyReference.cache
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.exe.config
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.XML
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.exe
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.pdb
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.exe
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.pdb
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.csprojResolveAssemblyReference.cache
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Correction\PostureCorrectionScreen.baml
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Delete\PostureDeleteScreen.baml
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Enrollment\PostureEnrollmentScreen.baml
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Login\LoginScreen.baml
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainScreen.baml
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainWindow.baml
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Select\PostureSelectionScreen.baml
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Correction\PostureCorrectionScreen.g.cs
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Delete\PostureDeleteScreen.g.cs
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Enrollment\PostureEnrollmentScreen.g.cs
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Login\LoginScreen.g.cs
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainScreen.g.cs
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainWindow.g.cs
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\Select\PostureSelectionScreen.g.cs
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\App.g.cs
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection_MarkupCompile.cache
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.g.resources
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.Properties.Resources.resources
+C:\Users\vvip\Desktop\Project Correction\최종\6조\6조_프로젝트파일\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.csproj.GenerateResource.Cache
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.exe.config
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.XML
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.exe
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.pdb
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.csprojResolveAssemblyReference.cache
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Correction\PostureCorrectionScreen.baml
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Delete\PostureDeleteScreen.baml
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Enrollment\PostureEnrollmentScreen.baml
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Login\LoginScreen.baml
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainScreen.baml
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainWindow.baml
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Select\PostureSelectionScreen.baml
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Correction\PostureCorrectionScreen.g.cs
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Delete\PostureDeleteScreen.g.cs
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Enrollment\PostureEnrollmentScreen.g.cs
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Login\LoginScreen.g.cs
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainScreen.g.cs
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainWindow.g.cs
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\Select\PostureSelectionScreen.g.cs
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\App.g.cs
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection_MarkupCompile.cache
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.g.resources
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.Properties.Resources.resources
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.csproj.GenerateResource.Cache
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.exe
+C:\Users\BadCandy\Desktop\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.pdb
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.exe.config
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.XML
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.exe
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.pdb
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.exe
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\ProjectCorrection.pdb
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\IKVM.Runtime.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\libsvm.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\LIBSVM.NET.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.csprojResolveAssemblyReference.cache
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Correction\PostureCorrectionScreen.baml
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Delete\PostureDeleteScreen.baml
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Enrollment\PostureEnrollmentScreen.baml
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Login\LoginScreen.baml
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainScreen.baml
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainWindow.baml
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Select\PostureSelectionScreen.baml
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Correction\PostureCorrectionScreen.g.cs
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Delete\PostureDeleteScreen.g.cs
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Enrollment\PostureEnrollmentScreen.g.cs
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Login\LoginScreen.g.cs
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainScreen.g.cs
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Main\MainWindow.g.cs
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\Select\PostureSelectionScreen.g.cs
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\App.g.cs
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection_MarkupCompile.cache
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.g.resources
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.Properties.Resources.resources
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\obj\Debug\ProjectCorrection.csproj.GenerateResource.Cache
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\ScriptCs.Contracts.dll
+D:\3-2\Project Correction\ProjectCorrection\ProjectCorrection\bin\Debug\ScriptCS.SpeakR.dll

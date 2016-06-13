@@ -1,0 +1,18 @@
+﻿<grammar version="1.0" xml:lang="en-US" root="rootRule" tag-format="semantics/1.0-literals" xmlns="http://www.w3.org/2001/06/grammar">
+  <rule id="rootRule">
+    <one-of>
+      <item>
+        <tag> CAPTURE </tag>
+        <one-of>
+          <item> capture </item>
+        </one-of>
+      </item>
+      <item>
+        <tag> FINISH </tag>
+        <one-of>
+          <item> finish </item>
+        </one-of>
+      </item>
+    </one-of>
+  </rule>
+</grammar>

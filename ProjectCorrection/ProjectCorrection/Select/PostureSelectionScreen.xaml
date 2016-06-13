@@ -1,0 +1,21 @@
+﻿<Page x:Class="ProjectCorrection.Select.PostureSelectionScreen"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d"
+	Title="PostureSelectionScreen" Height="906" Width="1501">
+    <Canvas HorizontalAlignment="Left" Height="904" VerticalAlignment="Top" Width="1501" Margin="0,0,-408,-194">
+        <Image Height="908" Width="1502" Source="/ProjectCorrection;component/rsc/back.jpg" Stretch="Fill"/>
+        <DataGrid Name="dataGridPostures" AutoGenerateColumns="False" Height="682" Canvas.Left="50" Canvas.Top="46" Width="1401" FontSize="40"
+                  FrozenColumnCount="4" ItemsSource="{Binding Path=LoadDataBinding}" CanUserResizeRows="False" SelectionChanged="dataGridPostures_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridHyperlinkColumn Binding="{Binding Path=pid}" ContentBinding="{Binding Path=pid}" Header="번호" MinWidth="200"/>
+                <DataGridHyperlinkColumn Binding="{Binding Path=user}" ContentBinding="{Binding Path=user}" Header="User Id" MinWidth="300"/>
+                <DataGridHyperlinkColumn Binding="{Binding Path=pname}" ContentBinding="{Binding Path=pname}" Header="자세 이름" MinWidth="900"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="돌아가기" Height="118" Canvas.Left="1056" Canvas.Top="759" Width="300" Background="#FFF5D8D8" FontSize="45" FontFamily="Yj TEUNTEUN Bold" Foreground="Black" Click="Button_Click_2"/>
+
+    </Canvas>
+</Page>

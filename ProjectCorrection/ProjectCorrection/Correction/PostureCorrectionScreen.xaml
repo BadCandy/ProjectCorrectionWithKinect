@@ -1,0 +1,15 @@
+﻿<Page x:Class="ProjectCorrection.Correction.PostureCorrectionScreen"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      Height="900" Width="1499"
+	Title="PostureCorrectionScreen">
+    <Canvas Name="canvas1" HorizontalAlignment="Left" Height="900" VerticalAlignment="Top" Width="1499" Margin="0,0,-406,-190">
+        <Image Height="900" Width="1501" Source="/ProjectCorrection;component/rsc/back.jpg" Stretch="Fill"/>
+        <Button Content="돌아가기" Height="116" Canvas.Left="1087" Canvas.Top="695" Width="299" Background="#FFF5D8D8" FontSize="50" FontFamily="Yj TEUNTEUN Bold" Foreground="Black" Click="Button_Click_2" RenderTransformOrigin="-1.963,1.228"/>
+        <Image Name="image2" Height="564" Width="521" Canvas.Left="980"/>
+        <Image Name ="image1" Height="900" Width="980"/>
+    </Canvas>
+</Page>

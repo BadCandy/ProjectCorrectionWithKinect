@@ -1,0 +1,5 @@
+﻿<NavigationWindow x:Class="ProjectCorrection.Main.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="키넥트와 함께 하는 자세교정" Height="945.851" Width="1519.277" Source="../Login/LoginScreen.xaml" ShowsNavigationUI="False">
+</NavigationWindow>
